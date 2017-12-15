@@ -1,0 +1,27 @@
+{
+  "name": "jquery-filldown",
+  "version": "1.0.0",
+  "description": "jQuery UI widget to fill inputs in a table column with the same value",
+  "main": "js/jquery.filldown.js",
+  "repository": "nolancaster/jquery-filldown",
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "fill",
+    "down",
+    "table",
+    "column",
+    "widget",
+    "input",
+    "values"
+  ],
+  "author": {
+    "name": "Nolan Lancaster",
+    "email": "nolancaster@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolancaster/jquery-filldown/issues"
+  },
+  "homepage": "https://github.com/nolancaster/jquery-filldown#readme"
+}
